@@ -10,7 +10,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/<你的用户名>/depth-video-skill.git
+git clone https://github.com/FDGVDGF/depth-video-skill.git
 cd depth-video-skill
 bash install.sh
 ```
