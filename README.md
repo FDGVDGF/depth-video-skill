@@ -35,7 +35,7 @@ bash scripts/run_depth.sh input.mp4 output/depth.mp4
 
 ### 2. 写提示词（只写，不生成）
 
-按 `SKILL.md` 第 3 步来：
+按 `SKILL.md` 第 3 步和 `docs/PROMPT_FORMAT.md` 来，以后都按这个格式：
 
 - 图片1：参考人物的脸、发型、服装和配饰
 - 图片2：参考场景、光线和色调
@@ -89,6 +89,7 @@ depth-video-skill/
     sample-prompt.txt         示例提示词正文
   docs/
     WORKFLOW.md        四步完整流程
+    PROMPT_FORMAT.md   提示词格式（v3，以后都按这个格式）
 ```
 
 模型、虚拟环境、输出文件不在仓库里（见 `.gitignore`）。
