@@ -1,0 +1,5 @@
+name: depth-video
+title: 黑白深度视频 + 视频生成提示词
+description: 用 Depth Anything V2 Small 把视频转成黑白深度视频，再按人物图、场景图、深度视频写视频生成提示词并导出
+category: video
+prompt_inclusion: on_demand

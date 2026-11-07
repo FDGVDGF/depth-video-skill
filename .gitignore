@@ -1,0 +1,8 @@
+venv/
+model_onnx/
+model/
+__pycache__/
+*.pyc
+output/
+input/
+.DS_Store
